@@ -1,5 +1,5 @@
 # Aeron's GitHub Profile
 ## This is my Github Profile :D
-- Currently working on a :sparkles: **discord bot** :sparkles: (aeron-codes/kys-bot) 
-- Currently learning **JavaScript** and **Discord.js**
+- ** i do too much stuff lmao **
+- currently learning kotlin bcuz y not
 - Pronouns are **He/They**
